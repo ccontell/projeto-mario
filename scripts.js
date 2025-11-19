@@ -8,7 +8,7 @@ const form = document.querySelector('.fale-conosco')
     }
 
     function hideForm() {
-        form.style.left = '-330px'
+        form.style.left = '-380px'
         form.style.transform = 'translateX(0)'
         background.style.visibility = 'hidden'
     }
